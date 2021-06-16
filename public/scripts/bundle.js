@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("index.js"),console.log("Rohan Bin".toUpperCase()+" !"),console.log(2*2)})();
